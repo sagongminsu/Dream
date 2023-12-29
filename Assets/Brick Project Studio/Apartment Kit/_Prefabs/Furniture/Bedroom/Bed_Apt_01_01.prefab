@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2112037616177321720}
   m_Layer: 0
   m_Name: Pillow_Apt_01
-  m_TagString: Untagged
+  m_TagString: Bed
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -139,7 +139,7 @@ Transform:
   m_Children:
   - {fileID: 6852825830425637504}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &5094750393437968449
 MeshFilter:
@@ -330,7 +330,7 @@ GameObject:
   - component: {fileID: 7551278821581706151}
   m_Layer: 0
   m_Name: Mattress_Apt_01
-  m_TagString: Untagged
+  m_TagString: Bed
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

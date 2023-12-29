@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6398685283482547066}
   m_Layer: 0
   m_Name: Drawer.003
-  m_TagString: Untagged
+  m_TagString: Bed2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -98,7 +98,7 @@ GameObject:
   - component: {fileID: 2302305627258387643}
   m_Layer: 0
   m_Name: Drawer_L
-  m_TagString: Untagged
+  m_TagString: Bed2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -190,7 +190,7 @@ GameObject:
   - component: {fileID: 2302305627513817228}
   m_Layer: 0
   m_Name: Drawer_R
-  m_TagString: Untagged
+  m_TagString: Bed2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -279,7 +279,7 @@ GameObject:
   - component: {fileID: 2302305627536529538}
   m_Layer: 0
   m_Name: Drawer Script
-  m_TagString: Untagged
+  m_TagString: Bed2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -420,7 +420,7 @@ GameObject:
   - component: {fileID: 4806556609691728876}
   m_Layer: 0
   m_Name: Mattress
-  m_TagString: Untagged
+  m_TagString: Bed2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -610,7 +610,7 @@ GameObject:
   - component: {fileID: 769143522727014097}
   m_Layer: 0
   m_Name: Handle.007
-  m_TagString: Untagged
+  m_TagString: Bed2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -693,7 +693,7 @@ GameObject:
   - component: {fileID: 5064469522629083350}
   m_Layer: 0
   m_Name: Drawer.002
-  m_TagString: Untagged
+  m_TagString: Bed2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1012,7 +1012,7 @@ GameObject:
   - component: {fileID: 8699021103390027411}
   m_Layer: 0
   m_Name: Handle.008
-  m_TagString: Untagged
+  m_TagString: Bed2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneSwitcherDreamScene : MonoBehaviour
 {
-    public string dreamSceneName = "DreamScene";
+
 
     private void Update()
     {
@@ -21,15 +21,15 @@ public class SceneSwitcherDreamScene : MonoBehaviour
                 if (hit.collider.CompareTag("Bed"))
                 {
 
-                    SwitchToDreamScene();
+                    SwitchDreamScene();
                 }
             }
         }
     }
 
 
-    private void SwitchToDreamScene()
+    private void SwitchDreamScene()
     {
-        SceneManager.LoadScene(dreamSceneName);
+        SceneManager.LoadScene("DreamScene");
     }
 }
